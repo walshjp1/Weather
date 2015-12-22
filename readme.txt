@@ -1,2 +1,2 @@
 	
-	Uses the NOAA weather API to retrieve the weather statistics from a certain location using the latitude/longitude values.
+	Uses the NOAA weather API to retrieve the weather statistics from a certain location using the latitude/longitude values, and then displays relevant information for the current week on a styled HTML page.
